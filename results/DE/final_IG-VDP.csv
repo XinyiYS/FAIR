@@ -1,0 +1,9 @@
+Methods,Final IG mean,Final IG mean (sem),Final IG std,Final IG std (sem)
+rand_sum_trail,25.699226757504192,,0.0,
+entropy_sum_trail,24.972674981680132,,0.0,
+joint_sum_trail,25.075897325585196,,0.0,
+greedy_sum_trail_1,24.507245898938642,,0.0,
+greedy_sum_trail_2,24.751341166899714,,0.0,
+greedy_sum_trail_3,25.405581541464823,,0.0,
+greedy_sum_trail_4,26.090204254605442,,0.0,
+dynamic_beta_sum_trail,25.4952672878307,,0.0,
