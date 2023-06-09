@@ -40,7 +40,7 @@ If you find our paper relevant or use our code in your research, please consider
   title={FAIR: Fair Collaborative Active Learning with Individual Rationality for Scientific Discovery},
   author={Xinyi Xu and Zhaoxuan Wu and Chuan Sheng Foo and Bryan Kian Hsiang Low},
   booktitle={Proceedings of the 26th International Conference on Artificial Intelligence and Statistics (AISTATS-23)},
-  year={2022}
+  year={2023}
 }
 ```
 
