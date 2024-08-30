@@ -1,5 +1,5 @@
 # FAIR: <ins>F</ins>air Collaborative <ins>A</ins>ctive Learning with <ins>I</ins>ndividual <ins>R</ins>ationality for Scientific Discovery [AISTATS 2023]
-Official implementation of our AISTATS 2023 paper ["FAIR: Fair Collaborative Active Learning with Individual Rationality for Scientific Discovery"](https://xinyi-xu.com/research.html) (__29%__ acceptance rate).
+Official implementation of our AISTATS 2023 paper ["FAIR: Fair Collaborative Active Learning with Individual Rationality for Scientific Discovery"](https://proceedings.mlr.press/v206/xu23e.html) (__29%__ acceptance rate).
 
 ## Requirements
 1. Linux machine (experiments were run on Ubuntu 18.04.5 LTS and Ubuntu 20.04.2 LTS)
